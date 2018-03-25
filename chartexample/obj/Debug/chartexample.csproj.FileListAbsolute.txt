@@ -1,0 +1,10 @@
+C:\Users\承翰\Desktop\chartexample\chartexample\obj\Debug\chartexample.csprojResolveAssemblyReference.cache
+C:\Users\承翰\Desktop\chartexample\chartexample\obj\Debug\chartexample.Form1.resources
+C:\Users\承翰\Desktop\chartexample\chartexample\obj\Debug\chartexample.Properties.Resources.resources
+C:\Users\承翰\Desktop\chartexample\chartexample\obj\Debug\chartexample.csproj.GenerateResource.Cache
+C:\Users\承翰\Desktop\chartexample\chartexample\obj\Debug\chartexample.csproj.CoreCompileInputs.cache
+C:\Users\承翰\Desktop\chartexample\chartexample\bin\Debug\chartexample.exe.config
+C:\Users\承翰\Desktop\chartexample\chartexample\bin\Debug\chartexample.exe
+C:\Users\承翰\Desktop\chartexample\chartexample\bin\Debug\chartexample.pdb
+C:\Users\承翰\Desktop\chartexample\chartexample\obj\Debug\chartexample.exe
+C:\Users\承翰\Desktop\chartexample\chartexample\obj\Debug\chartexample.pdb
